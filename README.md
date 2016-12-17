@@ -1,0 +1,1 @@
+# centos-8192eu-wifi-autoconfig
